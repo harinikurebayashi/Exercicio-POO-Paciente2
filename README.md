@@ -6,7 +6,7 @@
 # Programa - Cadastro de Pacientes
 
 ## Sobre
-- Projeto desenvolvido para disciplina de Programação Orientada a Objetos (POO), construindo um sistema em que cadastramos pacientes no sistema.
+- exercício desenvolvido para disciplina de Programação Orientada a Objetos (POO), construindo um sistema em que cadastramos pacientes no sistema.
 - O sistema permite o cadastro e visualização das informações dos pacientes.
 
 ## Tecnologias e ferramentas utilizadas
@@ -17,7 +17,7 @@
 
 ## Funcionalidades e Demonstração da Aplicação
 - O sistema cria dois pacientes com dois construtores diferentes.
-- O **primeiro** tem suas informmações cadastradas pelo paciente, sendo criado por um construtor com parâmetros. Já o **segundo** paciente é criado a partir de um construtor com apenas um parâmetro (nome).
+- O **primeiro** tem suas informações cadastradas pelo usuário, sendo criado por um construtor com parâmetros. Já o **segundo** paciente é criado a partir de um construtor com apenas um parâmetro (nome).
 - A seguir, iriei apresentar o sistema rodando:
 
 <br>
