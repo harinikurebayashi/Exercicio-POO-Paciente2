@@ -48,7 +48,7 @@
 - **O que eu aprendi na prática?**
 - Aprendi melhor sobre como funciona o instanciamento de objetos com construtores.
 - Também aprendi melhor sobre o cadastro de informações do usuário, guardando estes dados em variáveis.
-- Além disso, aprendi como criar e utilizar métodos com cada objeos, diferenciando cada tipo.
+- Além disso, aprendi como criar e utilizar métodos com cada objetos, diferenciando cada tipo.
 
 <br>
 
